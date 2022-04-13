@@ -16,15 +16,15 @@ If you haven't yet, create a folder to store the local repository. You can do th
 
 ```shell
 cd your/project/parent/directory
-mkdir cp3403-group
-cd cp3403-group
+mkdir cp3402-2022-1-site-team04
+cd cp3402-2022-1-site-team04
 ```
 
 Once you have the folder created, setup the repository.
 
 ```shell
 git init
-git remote add origin https://github.com/FinOCE/CP3403-group.git
+git remote add origin https://github.com/cp3402-students/cp3402-2022-1-site-team04.git
 ```
 
 ### Pushing changes to the shared repo
@@ -33,7 +33,7 @@ Steps from here on need to be done every time you wish to work on the repo. Once
 
 ```shell
 git pull origin main
-git checkout -b finley # Replace with your name
+git checkout -b naoki # Replace with your name
 
 # If you're working with VSCode and are running these commands from a separate terminal, you can use below to open it in the program
 code .
@@ -47,7 +47,7 @@ Once the branch has been merged, you can then delete the branch from that same b
 
 ```shell
 git checkout main
-git branch -d finley # Replace with your name
+git branch -d naoki # Replace with your name
 ```
 
 If you want to then do more work on it another time, simply start again from the start of this section (Pushing changes to the shared repo) and repeat the steps.
