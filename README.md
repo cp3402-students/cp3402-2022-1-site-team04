@@ -11,6 +11,7 @@ cp3402-2022-1-site-team04 created by GitHub Classroom
 (Part 1) How to setup git - https://www.youtube.com/watch?v=by774kRYcvs
 
 **Steps from here on need to be done every time you wish to work on the repo**
+
 (Part 2) When you are ready to start work on the repo - https://www.youtube.com/watch?v=JZKnW9Ii6xs
 
 "git pull origin main" just means to grab the latest files from Github. You need to do this EVERY time you 
