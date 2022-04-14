@@ -41,7 +41,7 @@ code .
 
 From here you are working on your local personal branch. Make changes and commits as you normally would (I recommend just using the VSCode source control GUI for this stuff). Once you've finished with your work, press the button "Publish Branch" that shows there. This button pushes the branch to Github, so it is visible to everyone online.
 
-Go to [the repo branches page](https://github.com/FinOCE/CP3403-group/branches) and press "New pull request" next to your branch. Assuming there are no conflicts, you should be able to then just merge the branch. If there are any conflicts, please let me know and I will have a look and try sort them out.
+Go to [the repo branches page](https://github.com/cp3402-students/cp3402-2022-1-site-team04/branches) and press "New pull request" next to your branch. Assuming there are no conflicts, you should be able to then just merge the branch. If there are any conflicts, please let me know and I will have a look and try sort them out.
 
 Once the branch has been merged, you can then delete the branch from that same branches page, since all updates are now in the main branch. To remove the branch from your local repo, run this:
 
