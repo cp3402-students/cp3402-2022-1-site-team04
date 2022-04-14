@@ -10,7 +10,7 @@ cp3402-2022-1-site-team04 created by GitHub Classroom
 ## Video Tutorial
 (Part 1) How to setup git - https://www.youtube.com/watch?v=by774kRYcvs
 
-**Steps from here on need to be done every time you wish to work on the repo**
+####Steps from here on need to be done every time you wish to work on the repo
 
 (Part 2) When you are ready to start work on the repo - https://www.youtube.com/watch?v=JZKnW9Ii6xs
 
@@ -24,6 +24,7 @@ error saying this branch already exists which you can just ignore.
 (Part 3) How to push your changes to your Github branch - https://www.youtube.com/watch?v=aifZUT0rC6A
 
 (Part 4) How to merge your branch with the main branch - https://www.youtube.com/watch?v=xs2dVjYEmgs
+
 
 
 
