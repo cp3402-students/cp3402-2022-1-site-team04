@@ -7,7 +7,7 @@ cp3402-2022-1-site-team04 created by GitHub Classroom
 - Liam Williams
 
 
-## Video Tutorial
+## Guide to committing changes - Video tutorial
 (Part 1) How to setup git - https://www.youtube.com/watch?v=by774kRYcvs
 
 ### Steps from here on need to be done every time you wish to work on the repo
@@ -26,9 +26,7 @@ error saying this branch already exists which you can just ignore.
 (Part 4) How to merge your branch with the main branch - https://www.youtube.com/watch?v=xs2dVjYEmgs
 
 
-
-
-## Guide to committing changes
+## Guide to committing changes - text version
 
 There may be some situations where issues happen, but I believe this should be the way for us to all work on the same repository.
 
@@ -61,3 +59,4 @@ git checkout -b naoki # Replace with your name
 From here you are working on your local personal branch. Make changes and commits as you normally would (I recommend just using the VSCode source control GUI for this stuff). Once you've finished with your work, press the button "Publish Branch" that shows there. This button pushes the branch to Github, so it is visible to everyone online.
 
 Go to [the repo branches page](https://github.com/cp3402-students/cp3402-2022-1-site-team04/branches) and press "New pull request" next to your branch. Assuming there are no conflicts, you should be able to then just merge the branch. If there are any conflicts, please let me know and I will have a look and try sort them out.
+
