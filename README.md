@@ -62,4 +62,4 @@ Go to [the repo branches page](https://github.com/cp3402-students/cp3402-2022-1-
 
 ## Guide to committing changes to the database
 Use wp-db-migrate.
-##### Note: Before making any changes to the database make sure you pull the database from the staging server using wp-db-migrate or you risk overwriting someone else's work
+### Note: Before making any changes to the database make sure you pull the database from the staging server using wp-db-migrate or you risk overwriting someone else's work
