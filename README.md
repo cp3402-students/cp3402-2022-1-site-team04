@@ -60,4 +60,6 @@ From here you are working on your local personal branch. Make changes and commit
 
 Go to [the repo branches page](https://github.com/cp3402-students/cp3402-2022-1-site-team04/branches) and press "New pull request" next to your branch. Assuming there are no conflicts, you should be able to then just merge the branch. If there are any conflicts, please let me know and I will have a look and try sort them out.
 
-## Guide to committing changes (Text version)
+## Guide to committing changes to the database
+Use wp-sync-db
+###Note: Before making any changes to the database make sure you pull the database from the staging server using wp_db_migrate or you risk overwriting someone else's work
