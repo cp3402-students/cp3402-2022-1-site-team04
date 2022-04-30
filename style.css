@@ -11,3 +11,15 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  understrapchild
 */
+
+
+
+.header {
+    background-color: black;
+    font-size: 14;
+    color:gold;  
+}
+
+.headercontainer{
+    align-items: center;
+}
