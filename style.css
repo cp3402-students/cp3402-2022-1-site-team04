@@ -147,6 +147,10 @@ h1 {
     text-align: center;
 }
 
+h1pg1 {
+    padding-top: 50px;
+}
+
 #a1, #a2, #a3, #a4, #a5, #a6 {
     color: black;
     font-weight: bold;
