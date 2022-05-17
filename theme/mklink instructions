@@ -1,0 +1,5 @@
+how to implement mklink
+
+open Command Prompt an Administrator
+
+in Command Prompt type mklink /J C:\LinkToFolder C:\Users\Name\OriginalFolder
