@@ -24,6 +24,10 @@
     width: 100%;
 }
 
+nav{
+    align-items: center;
+}
+
 li{
 font: bold;
 }
@@ -32,11 +36,17 @@ ul li{
     list-style: none;
     display: inline-block;
     float: none;
+    padding-right: 5%;
 
 }
 
 ul li a {
     text-decoration: none;
-    color: gold;
-
+    color: black;
+    float: center;
+    /*padding-right:15%;*/
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    weight: 1;
+    
 }
