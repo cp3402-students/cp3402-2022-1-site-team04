@@ -7,7 +7,7 @@
 [//]: # (details about WordPress theme development, only what is specific to your theme.)
 
 
-#Jazz Club
+# Jazz Club
 
 Contributors: 
 * Daniel Mackenzie
