@@ -11,9 +11,9 @@
 
 Contributors: 
 * Daniel Mackenzie
-* naoki Costa 
-* sandip
-* liam
+* Naoki Da Costa
+* Sandeep Kaur
+* Liam Williams
 
 Requires at least: WordPress 5.0 
 Tested up to: WordPress 5.8
