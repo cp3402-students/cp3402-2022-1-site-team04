@@ -18,6 +18,7 @@ error saying this branch already exists which you can just ignore.
 (Part 4) How to merge your branch with the main branch - https://www.youtube.com/watch?v=xs2dVjYEmgs
 
 </br>
+
 ## Guide to committing changes (Text version)
 
 There may be some situations where issues happen, but I believe this should be the way for us to all work on the same repository.
