@@ -24,7 +24,7 @@ Jazz Club is a theme designed for sites focused around Jazz either as a hobby or
 * WP Pusher for pulling theme updates from GitHub to the staging/production server
 
 ### Setup
-* Clone GitHub repository https://github.com/cp3402-students/cp3402-2022-1-site-team04.git into you chosen IDE (see README for more details)
+* Clone GitHub repository https://github.com/cp3402-students/cp3402-2022-1-site-team04.git into you chosen IDE (as many people had trouble setting this up I have made a seperate document detailing this process [here](https://github.com/cp3402-students/cp3402-2022-1-site-team04/blob/main/git.md))
 * (Optional) use mklink /j connect you IDE to your Local hosting
 * Activate theme in you local hosting
 * Install the necessary plugins for database and theme migration
