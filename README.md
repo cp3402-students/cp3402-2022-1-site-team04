@@ -13,8 +13,8 @@ Jazz Club is a theme designed for sites focused around Jazz either as a hobby or
 ## [Deployment.md](deployment.md)
 Documentation for the development and deployment workflow for this project.
 
-## [Theme.md](Theme.md)
+## [Theme.md](theme.md)
 Documentation for the theme that includes relevant information such as the design decisions, colours and notable features.
 
-## [Site.md](Site.md)
+## [Site.md](site.md)
 Documentation for the site that details the neccessary plugins and general processes to help with site maitenance and security.
