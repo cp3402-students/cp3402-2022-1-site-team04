@@ -4,3 +4,7 @@
 
 [//]: # (particular site is organised and can be updated.)
 
+The site uses two plugins for displaying media content on the site. They are
+
+* NextGEN Gallery for displaying images inside a gallery
+* PDF Embedder for embedding PDF files
