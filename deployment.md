@@ -9,8 +9,8 @@
 # Deployment
 ## Team members to contact for more information
 
-* Footer, widget, hosting, git - Daniel
-* Database and theme migration, git, CSS - Naoki
+* Footer, widget, hosting, Git - Daniel
+* Database and theme migration, Git, CSS - Naoki
 * Header - Liam
  
 ## Introduction
