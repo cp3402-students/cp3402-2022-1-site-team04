@@ -31,6 +31,6 @@ Jazz Club is a theme designed for sites focused around Jazz either as a hobby or
 
 
 ## Staging Deployments
-we suggest for most testing to be done on a local host (bitnami is recommended) and then push to GitHub where the code will be reviewed and if approved it will automatically be merged with the staging site theme (Google cloud platform WordPress site) for further testing until it is ready to be migrated to the production server (Azure wordPress site).
+We suggest for most testing to be done on a local host (bitnami is recommended) and then push to GitHub where the code will be reviewed and if approved it will automatically be merged with the staging site theme (Google cloud platform WordPress site) for further testing until it is ready to be migrated to the production server (Azure wordPress site).
 
 
