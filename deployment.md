@@ -10,7 +10,7 @@
 ## Team members to contact for more information
 
 * Footer, widget, hosting, Git - Daniel
-* Database and theme migration, Git, CSS - Naoki
+* Database and theme migration, CSS, Git, general DevOps - Naoki
 * Header - Liam
  
 ## Introduction
