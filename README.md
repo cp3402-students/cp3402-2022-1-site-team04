@@ -10,7 +10,7 @@ cp3402-2022-1-site-team04 created by GitHub Classroom
 ## General Overview
 Jazz Club is a theme designed for sites focused around Jazz either as a hobby or passion. It is based on the starter theme Understrap and was developed by a small group of students.
 
-## [Deployment.md]([url](https://github.com/cp3402-students/cp3402-2022-1-site-team04/blob/main/deployment.md))
+## [Deployment.md]([https://github.com/cp3402-students/cp3402-2022-1-site-team04/blob/main/deployment.md](https://github.com/cp3402-students/cp3402-2022-1-site-team04/blob/main/deployment.md))
 Documentation for the development and deployment workflow for this project.
 
 ## [Theme.md]([url](https://github.com/cp3402-students/cp3402-2022-1-site-team04/blob/main/theme.md))
