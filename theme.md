@@ -11,9 +11,9 @@
 
 Contributors: 
 * Daniel Mackenzie
-* naoki Costa 
-* sandip
-* liam
+* Naoki Da Costa 
+* Sandeep Kaur
+* Liam WIlliams
 
 Requires at least: WordPress 5.0 
 Tested up to: WordPress 5.8
@@ -41,7 +41,7 @@ style.css
 ### Colour Theme Recommended 
 scheme main, secondary 
 background #FFD98E, #FEA655
-header/ footer #566357, #909473
+header/footer #566357, #909473
 aesthetics #E34A27
 
 
