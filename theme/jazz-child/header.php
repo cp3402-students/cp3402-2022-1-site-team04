@@ -48,7 +48,7 @@ li a {
     <nav class="nav d-flex justify-content-between">
       <a id="a1" class="p-2 link-secondary" href="http://34.64.228.94/">Home</a>
       <a id="a2" class="p-2 link-secondary" href="http://34.64.228.94/?page_id=311">Programs</a>
-      <a id="a3" class="p-2 link-secondary" href="http://34.64.228.94/?page_id=543">Photos</a>
+      <a id="a3" class="p-2 link-secondary" href="http://34.64.228.94/?page_id=543">Gallery</a>
       <a id="a4" class="p-2 link-secondary" href="http://34.64.228.94/?page_id=417">About</a>
       <a id="a5" class="p-2 link-secondary" href="http://34.64.228.94/?page_id=724">News</a>
       <a id="a6" class="p-2 link-secondary" href="http://34.64.228.94/?page_id=428">Members</a>
