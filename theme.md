@@ -31,7 +31,7 @@ Website: [https://understrap.com](https://understrap.com)
 ### Notable Features
 
 #### Simplicity
-Our goal with the theme was to create a nice clean interface with easy navigation to create an intuitive experience. We also wanted the theme to contain large fonts so that the site is suitable for scanning and is able to be read by people of all ages.  Calls to actions for sections of the site site such as the subscription and sign up page were also a key focus of the site as it could improve client growth. Links to these pages are still a Work in Progress.
+Our goal with the theme was to create a nice clean interface with easy navigation to create an intuitive experience. We also wanted the theme to contain large fonts so that the site is suitable for scanning and is able to be read by people of all ages. 
 
 #### Header
 The header is a very simple navbar that is evenly divided between sections for easy scanning and navigation purposes. It is bolded in black to draw the viewer's attention towards it as well as to define it as text with strong importance.
