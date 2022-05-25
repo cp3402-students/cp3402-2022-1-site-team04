@@ -53,3 +53,5 @@
 </main>
 
 <p class="wp-block-pdfemb-pdf-embedder-viewer"></p>
+
+<?php include("footer.php"); ?>
