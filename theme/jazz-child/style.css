@@ -1,17 +1,17 @@
 /*
- Theme Name:   Jazz Club
+ Theme Name:   Jazzzy
  Theme URI:    https://understrap.com
  Description:  Understrap Child Theme
  Author:       Daniel Mackenzie, Naoki Da Costa, Sandeep Kaur, Liam Williams
  Author URI:   http://example.com
  Template:     understrap
+ Tested up to: 5.4
  Version:      1.0.0
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  understrapchild
 */
-
 
 /* .header {
     background-color: black;
@@ -49,6 +49,7 @@ ul li a {
     font-family: Arial, Helvetica, sans-serif;
     weight: 1;   
 } */
+
 
 #p1pg4_2 {
     padding-bottom: 30px;
