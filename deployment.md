@@ -12,6 +12,7 @@
 * Footer, widget, hosting, Git - Daniel
 * Footer, Header, Database and theme migration, PHP, Git, general DevOps - Naoki
 * Header - Liam
+* Footer - Sandeep
  
 ## Introduction
 Jazz Club is a theme designed for sites focused around Jazz either as a hobby or passion. It is based on the starter theme Understrap and was developed by a small group of students.
