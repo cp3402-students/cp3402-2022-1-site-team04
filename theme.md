@@ -30,6 +30,9 @@ Website: [https://understrap.com](https://understrap.com)
 
 ### Notable Features
 
+#### Simplicity
+Our goal with the theme was to create a nice clean interface with easy navigation and large fonts so that the site is suitable for scanning and is able to be able to read by people of all ages.  We also wanted to create calls to actions to sections of the site that could improve client growth such as for the subscription and sign up page (Work in Progress).
+
 #### Header
 The header is a very simple navbar that is evenly divided between sections for easy scanning and navigation purposes. It is bolded in black to draw the viewer's attention towards it as well as to define it as text with strong importance.
 
@@ -37,10 +40,6 @@ The header is a very simple navbar that is evenly divided between sections for e
 The footer uses a sleek and modern interface to increase the vibrance of an otherwise dull section of the site. It contains three sections which are Archives, Categories and Newsletter. Links inside those categories are currently a Work in Progress.
 
 #### Widgets
-
-#### Simplicity
-Our goal with the theme was to create a nice clean interface with easy navigation and large fonts so that the site is suitable for scanning and is able to be able to read by people of all ages.  We also wanted to create calls to actions to sections of the site that could improve client growth such as for the subscription and sign up page (Work in Progress).
-
 
 ### Colour Theme Recommended 
 scheme main, secondary 
