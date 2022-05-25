@@ -10,7 +10,7 @@
 ## Team members to contact for more information
 
 * Footer, widget, hosting, Git - Daniel
-* Database and theme migration, CSS, Git, general DevOps - Naoki
+* Footer, Header, Database and theme migration, PHP, Git, general DevOps - Naoki
 * Header - Liam
  
 ## Introduction
@@ -25,12 +25,13 @@ Jazz Club is a theme designed for sites focused around Jazz either as a hobby or
 
 ### Setup
 * Clone GitHub repository https://github.com/cp3402-students/cp3402-2022-1-site-team04.git into you chosen IDE (as many people had trouble setting this up I have made a seperate document detailing this process [here](https://github.com/cp3402-students/cp3402-2022-1-site-team04/blob/main/git.md))
-* (Optional) use mklink /j connect you IDE to your Local hosting
-* Activate theme in you local hosting
+* (Optional) Use mklink to improve the directory structure of the github themes folder
+* Activate the theme in your local hosting server
 * Install the necessary plugins for database and theme migration
+* Enable Push-to-Deploy to enable automatic updates on every push for WP Pusher
 
 
 ## Staging Deployments
-We suggest for most testing to be done on a local host (bitnami is recommended) and then push to GitHub where the code will be reviewed and if approved it will automatically be merged with the staging site theme (Google cloud platform WordPress site) for further testing until it is ready to be migrated to the production server (Azure wordPress site).
+We suggest for most testing to be done on your local host (Bitnami is recommended) and then push to GitHub where the pull request will be reviewed and if approved it will automatically be merged with the staging site theme (Google cloud platform WordPress site) for further testing until it is ready to be migrated to the production server (Azure wordPress site).
 
 
