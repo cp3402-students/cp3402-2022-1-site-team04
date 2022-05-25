@@ -28,15 +28,31 @@ built on starter theme: Understrap
 
 Website: [https://understrap.com](https://understrap.com)
 
+To provide the jazz club site with an identity and accurately expressing the clients needs/goals for the club website, a custom theme was built using the "Understrap" starter theme. this provided the team with a basic starting point, and a stand alone theme that won't become obsolete in the near future.
+
+### Why Understrap?
+
+Understraps provides the basic functionality for a theme to get started quickly. when initially downloaded it included well-commented website files to enable quick adjustments of the theme where needed. Some things to consider when editing the theme.
+
 ### Notable Features
 
 header
 
+The contents of the header can be edited from inside the header.php file. The file contains a basic set up of the links inside a navbar using HTML. The file is styled using CSS. The file could be styled with SASS however in this state it is inly using CSS.  The Header was made deliberately bare as it was inspired by sites promoting similar content.  The styling  classes are from ‘understrap’.
+The images in the header would not work internally so we turned to hosting the image off site using imgur.
+
+
 footer
+
+The jazz footer is found in the footer.php file. The file is a template for displaying the footer. Contains the closing of the #content div and all content after the Jazz-child package. The footer takes its styling from the understrap theme. 
 
 widgets
 
+The widgets are extended through the  widgets.php file. The file places the widget area.
+
 style.css
+
+The style sheet provides a minimalistic design with contrasting colors i.e. black with a white background, is used with intent of reaching younger audiences/improve readability of key information. The style.css file of the theme provides the ability to adhear to this design. The style.css file is well organised into sections related to the part of the website that is being adjusted.
 
 ### Colour Theme Recommended 
 scheme main, secondary 
