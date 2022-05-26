@@ -4,7 +4,7 @@
 <style>
 
 #colophon {
-    background-color: #566357;
+    background-color: #ececec;
     padding-top: 50px;
     padding-bottom: 30px;
 }
