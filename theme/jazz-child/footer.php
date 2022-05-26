@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+
+#colophon {
+    background-color: #ececec;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+</style>
+
 <?php
 /**
  * jazz footer
@@ -22,32 +35,23 @@ $container = get_theme_mod('understrap_container_type');
 <footer id="colophon" class="site-footer" role="contentinfo">
     <div class="container">
         <div class="row">
+            
             <div class="col-md-4">
                 <?php dynamic_sidebar('footer-1'); ?>
-                <h4 class="widget-title">pages</h4>
+ 
 
                 <div id="navbarNavDropDown" class="colloapse navbar-collapse">
                     <ui id="main-menu" class="navbar-nav ma-auto"></ui>
                 </div>
-
             </div><!--  .col-md-4 -->
+
             <div class="col-md-4">
                 <?php dynamic_sidebar('footer-2'); ?>
-                <h4 class="widget-title">pages</h4>
-                <p>
-                    <a href="" title="test">test</a>
-                    <a href="" title="test">test1</a>
-                    <a href="" title="test">test2</a>
-                </p>
             </div><!--  .col-md-4 -->
+            
             <div class="col-md-4">
                 <?php dynamic_sidebar('footer-3'); ?>
-                <h4 class="widget-title">pages</h4>
-                <p>
-                    <a href="" title="test">test</a>
-                    <a href="" title="test">test1</a>
-                    <a href="" title="test">test2</a>
-                </p>
+
             </div><!--  .col-md-4 -->
         </div><!--  .row -->
         <div class="site-info">

@@ -9,28 +9,30 @@
 # Deployment
 ## Team members to contact for more information
 
-* footer, widget, hosting, git - daniel
-* css, local hosting, hosting migration - naoki
-* header - liam
+* Footer, widget, hosting, Git - Daniel
+* Footer, Header, Database and theme migration, PHP, Git, general DevOps - Naoki
+* Header - Liam
+* Footer - Sandeep
  
-## introduction
-jazz club is a theme designed for uses in site focused around jazz either as a hobby or passion.
-
-it is based on the stater theme Understrap for WordPress. and was mady by a small group of student.
+## Introduction
+Jazz Club is a theme designed for sites focused around Jazz either as a hobby or passion. It is based on the starter theme Understrap and was developed by a small group of students.
 
 ## Production Deployments
-* local hosting for WordPress
-* IDE 
-* GitHub
+* Bitnami WordPress for local hosting
+* An IDE such as Visual Studio Code
+* Git and GitHub for a cloud-based version control and repository hosting
+* WP Sync DB and WP Sync DB Media Files addon for database migration
+* WP Pusher for pulling theme updates from GitHub to the staging/production server
 
-### setup
-* clone GitHub repository https://github.com/cp3402-students/cp3402-2022-1-site-team04.git into you chosen IDE
-* optional use mklink /j connect you IDE to your Local hosting
-* activate theme in you local hosting
-* 
+### Setup
+* Clone GitHub repository https://github.com/cp3402-students/cp3402-2022-1-site-team04.git into you chosen IDE (as many people had trouble setting this up I have made a seperate document detailing this process [here](https://github.com/cp3402-students/cp3402-2022-1-site-team04/blob/main/git.md))
+* (Optional) Use mklink to improve the directory structure of the github themes folder
+* Activate the theme in your local hosting server
+* Install the necessary plugins for database and theme migration
+* Enable Push-to-Deploy to enable automatic updates on every push for WP Pusher
 
 
 ## Staging Deployments
-we suggest for most testing to be done on a local host (bitnami is recommended) than to push to GitHub where the code will be review and if approved it will automatically be merged with the staging site theme (Google cloud platform WordPress site) for further testing.
+We suggest for most testing to be done on your local host (Bitnami is recommended) and then push to GitHub where the pull request will be reviewed and if approved it will automatically be merged with the staging site theme (Google cloud platform WordPress site) for further testing until it is ready to be migrated to the production server (Azure wordPress site).
 
 

@@ -1,142 +1,57 @@
-<header>
+<!DOCTYPE html>
+<html>
 
+<head>
 <style>
-
-    .header {
-    background-color: black;
-    font-size: 14;
-    color:gold;  
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
 
-.headercontainer{
-    align-items: center;
-    float: right;
-    width:90%;
-    padding-left: 10%;
-    height: 15%;
+li {
+  float: left;
 }
 
-nav{
-    align-items: right;
-    padding-bottom: 20%;
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
 }
+</style>
+<?php wp_head() ?>
+</head>
 
-li{
-font: bold;
-float: center;
-text-align: center;
+<body>
 
-}
+<div class="container-fluid">
+  <header class="blog-header py-3">
+    <div class="row flex-nowrap justify-content-between align-items-center">
+      <div class="col-4 pt-1">
+        <a class="link-secondary" href="#">Subscribe</a>
+      </div>
+      <div class="col-2 text-center">
+<img src="https://i.imgur.com/nr2PM3P.jpeg" alt="Italian Trulli width=" height="100">
+        
+      </div>
+      <div class="col-4 d-flex justify-content-end align-items-center">
+        <a class="link-secondary" href="#" aria-label="Search">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="mx-3" role="img" viewBox="0 0 24 24"><title>Search</title><circle cx="10.5" cy="10.5" r="7.5"></circle><path d="M21 21l-5.2-5.2"></path></svg>
+        </a>
+        <a class="btn btn-sm btn-outline-secondary" href="#">Sign up</a>
+      </div>
+    </div>
+  </header>
 
-ul li{
-    text-decoration: none;
-    list-style: none;
-    display: inline-block;
-    float: none;
-    /*padding-right: 5%;*/
-    /*padding-top: 5%;*/
-    /*padding-bottom: 5%;*/
-    width: 15%;
-    /*margin-left: 1%;
-    margin-right: 1%;*/
-    height: 80%;
-}
-
-
-ul li a {
-    /*display: block;
-    text-decoration: none;
-    color: black;
-    float: top ;
-    padding-right:15%;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    weight: 1;
-    width: 20%;
-    vertical-align: middle;
-    line-height: 1.5;
-    display: inline-block;
-    padding-top: 43%;
-    padding-bottom: 43%;*/
-}
-
-.listedLinks {
-    display: block;
-    text-decoration: none;
-    color: black;
-    float: top ;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    weight: 1;
-    vertical-align: middle;
-    line-height: 1.5;
-    display: inline-block;
-    padding-top: 23%;
-    padding-bottom: 23%;
-    width: 100%;
-}
-
-.listedImage{
-    display: block;
-    text-decoration: none;
-    color: black;
-    float: top ;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    weight: 1;
-    vertical-align: middle;
-    line-height: 1.5;
-    display: inline-block;
-    
-}
-
-ul li a:hover {
-    color:white;
-    background-color: gray;
-}
-ul li :hover {
-    background-color: gray;
-}
-
-
-.headerFormat{
-    padding-bottom: 5%;
-}
-
-.iconformat{
-    margin-top: 5%;
-    float: left;
-}
-.menuformat{
-    float: right;
-}
-.full{
-    width: 100%;
-}
-
-
-.right{
-    float: right;
-    width: 100%;
-}
-
-    </style>
-
-    
-   
-<div class="headercontainer">
-    <nav class="full">
-
-   <div class = "right"> 
-        <ul class="nav">   
-            <li><a class ="listedImage" href="index.html"><img href="index.html" src='http://localhost/wordpress/wp-content/uploads/2022/05/jazzman-small.jpg'/></a></li>
-           <li><a class ="listedLinks" href="index.html">HOME</a></li>
-            <li><a class ="listedLinks" href="about.html">PROGRAMS</a></li>
-            <li><a class ="listedLinks" href="contacts.html">LOCATION</a></li>
-            <li><a class ="listedLinks" href="contacts.html">PHOTOS</a></li>
-            <li><a class ="listedLinks" href="contacts.html">JOIN</a></li> 
-        </ul>
+  <div class="nav-scroller py-1 mb-2">
+    <nav class="nav d-flex justify-content-between">
+      <a id="a1" class="p-2 link-secondary" href="http://34.64.228.94/">Home</a>
+      <a id="a2" class="p-2 link-secondary" href="http://34.64.228.94/?page_id=311">Programs</a>
+      <a id="a3" class="p-2 link-secondary" href="http://34.64.228.94/?page_id=543">Gallery</a>
+      <a id="a4" class="p-2 link-secondary" href="http://34.64.228.94/?page_id=417">About</a>
+      <a id="a5" class="p-2 link-secondary" href="http://34.64.228.94/?page_id=724">News</a>
+      <a id="a6" class="p-2 link-secondary" href="http://34.64.228.94/?page_id=428">Members</a>
+    </nav>
+  </div>
 </div>
-    </nav>        
-</div>
-</header>
